@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="main_screen_text">Main screen</string>
+    <string name="second_screen_text">Second screen</string>
+    <string name="moneybox_text">Копилка</string>
+    <string name="active_button_text">Активные</string>
+    <string name="archive_button_text">Архив</string>
+    <string name="error_text">Нет данных. Ошибка: %1$s</string>
+    <string name="name_text">Название цели</string>
+    <string name="example_title_text">Например: на отпуск</string>
+    <string name="support_title_text">Укажите название</string>
+    <string name="amount_text">Сумма</string>
+    <string name="example_amount_text">Например: 50 000 ₽.</string>
+    <string name="support_amount_text">Сколько планируете накопить</string>
+    <string name="checkbox_text">Уже есть накопления</string>
+    <string name="amount_save_text">Сумма накоплений</string>
+    <string name="support_amount_save_text">Сколько уже накопили</string>
+    <string name="data_text">Дата</string>
+    <string name="support_data_text">Выберите дату окончания (необязательно)</string>
+    <string name="success_button_text">OK</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
